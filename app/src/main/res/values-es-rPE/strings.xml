@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EC03</string>
+    <string name="get_started_title">Mira las recetas de los platos \ntipicos de Peru</string>
+    <string name="get_started">Comenzar</string>
+</resources>
